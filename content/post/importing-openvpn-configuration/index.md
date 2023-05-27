@@ -13,9 +13,11 @@ categories:
 projects:
   - Linux
 image:
-  filename: featured
+  filename: openvpn_logo.webp
   focal_point: Smart
   preview_only: false
+  caption: OpenVPN Logo
+  alt_text: OpenVPN Logo
 ---
 OpenVPN is an open-source Virtual Private Network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It allows peers to authenticate each other using pre-shared secret keys, certificates, or usernames/passwords. It is recognized industry-wide as the most secure VPN encryption protocol. As well as being remarkably reliable, OpenVPN is highly customizable and can be implemented by users in several ways.
 
