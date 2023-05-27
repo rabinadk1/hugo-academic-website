@@ -26,9 +26,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rabinadk1/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
   - icon: envelope
     icon_pack: fas
     link: mailto:rabin.adk1@gmail.com
@@ -40,13 +37,16 @@ education:
     - course: Bachelors in Computer Engineering
       institution: Tribhuvan University, Institute of Engineering, Pulchowk Campus
       year: 2022
+    - course: High School in Physical Sciences
+      institution: SOS Hermann Gmeiner School Bharatpur, Bharatpur, Nepal
+      year: 2017
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Adhikari
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Rabin
+email: "rabin.adk1@gmail.com"
 ---
 Hi, I am a computer engineering graduate from IOE, Pulchowk Campus, with a year of experience as a research assistant at NAAMII, a reputable research organization. My primary research interests lie in developing and applying machine learning techniques to solve practical problems, focusing on semi-supervised learning, multi-modal learning, and natural language processing.
 

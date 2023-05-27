@@ -11,7 +11,7 @@ authors:
   - admin
   - Nischal Maharjan
   - Sanjeeb Prasad Panday
-doi: https://doi.org/10.36548/jiip.2022.3.001
+doi: 10.36548/jiip.2022.3.001
 publication: Journal of Innovative Image Processing
 abstract: With the increased use of depth information in computer vision,
   monocular depth estimation has been an emerging ﬁeld of study. It is a

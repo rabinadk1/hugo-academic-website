@@ -17,8 +17,8 @@ image:
   filename: nearest_ten_points_of_man.webp
   focal_point: Smart
   preview_only: false
-  caption: Nearest ten points for word Man
-  alt_text: Nearest ten points for word Man
+  caption: Nearest ten points for the word, Man
+  alt_text: Nearest ten points for the word, Man
 ---
 ## Tokenization
 

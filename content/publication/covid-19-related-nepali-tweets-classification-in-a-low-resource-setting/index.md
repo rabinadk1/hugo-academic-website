@@ -15,7 +15,6 @@ authors:
   - Samip Poudel
   - Aman Shakya
   - Bishesh Khanal
-doi: https://aclanthology.org/2022.smm4h-1.52/
 publication: In *Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop \& Shared Task*
 abstract: Billions of people across the globe have been using social media
   platforms in their local languages to voice their opinions about the various
