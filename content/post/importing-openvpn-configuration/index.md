@@ -25,7 +25,11 @@ Setting up OpenVPN in Linux is pretty straightforward. Specifically, You can imp
 
 First of all, you should download the OpenVPN configuration. It can be downloaded from any service provider, but I will use the [vpnbook](https://www.vpnbook.com/freevpn) for this blog for simplicity.
 
+![vpnbook screenshot](vpnbook_screenshot.webp)
+
 The above picture is the screenshot of the link to the vpnbook website. Download any OpenVPN Certificate Bundle from the provided ones according to your location and need. I downloaded [US1 OpenVPN Certificate Bundle](https://www.vpnbook.com/free-openvpn-account/VPNBook.com-OpenVPN-US1.zip). Now let's go ahead and look at the contents of the zip file you just downloaded.
+
+![openvpn bundle contents](openvpn_bundle_contents.webp)
 
 The zip contained the files shown in the figure above. The vpnbook website says they are *UDP 53*, *UDP 25000*, *TCP 80*, and *TCP 443* profiles. TCP and UDP are protocols for those who don't know about them; the numbers beside them are the port in which they operate. For example, vpnbook-us1-udp53.openvpn has a configuration for UDP protocol on port 53 for the VPN.
 
@@ -36,6 +40,8 @@ We will be importing the configuration from the *nm-connection-editor* command
 You'll be prompted to choose a connection type from the dropdown, which will default to *Ethernet*. Choose "Import a saved VPN configuration," **not VPN**, the last element in the dropdown in my case. Then click *Create*. This also shows a quick reminder to install the openvpn plugin for NetworkManager if you haven't already.
 
 After clicking *Create*, you will be prompted to choose the OpenVPN configuration file. Go ahead and show it the .openvpn file of your choice. Quick info: **UDP is faster but can result in data loss, and TCP is more reliable**. The Vpnbook instructs you to use TCP if you cannot connect to UDP due to network restrictions. I am choosing vpnbook-us1-udp53.openvpn and importing it. However, you can import any one of the four files.
+
+![openvpn configuration imported](openvpn_imported.webp)
 
 As you can see, the NetworkManager automatically imports your settings; You don't have to manually type it. The configuration just imported had a key and a certificate inside it. So the network manager created them inside the .cert directory in your $HOME directory. If you have a different file for your certificate and/or key, then NetworkManager imports it/them in the configuration. But it would help if you didn't move them since it stores their location there. Suppose you move any of those files. In that case, you must update their path in this configuration in *nm-connection-editor*.
 
