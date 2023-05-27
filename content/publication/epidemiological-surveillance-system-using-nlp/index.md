@@ -3,12 +3,12 @@ title: Epidemiological Surveillance System using NLP
 publication_types:
   - "7"
 authors:
-  - Basnet
-  - Nirajan and Adhikari
-  - Rabin and Thapaliya
-  - Safal and Poudel
-  - Samip
+  - Nirajan Basnet
+  - Rabin Adhikari
+  - Safal Thapaliya
+  - Samip Poudel
 doi: http://dx.doi.org/10.13140/RG.2.2.29625.24169/1
+publication: Institute of Engineering, Tribhuvan University
 abstract: The escalation in social media usage amid the pandemic has gathered
   extensive data for Natural Language Processing tasks, many of which solve some
   of the contemporary issues of the world. An abundance of these NLP tasks
@@ -28,7 +28,7 @@ abstract: The escalation in social media usage amid the pandemic has gathered
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-04-01T12:16:56.787Z
