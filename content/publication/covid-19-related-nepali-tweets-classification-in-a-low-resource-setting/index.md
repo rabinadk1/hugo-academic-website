@@ -3,16 +3,18 @@ title: COVID-19-related Nepali Tweets Classification in a Low Resource Setting
 publication_types:
   - "1"
 authors:
-  - Rabin Adhikari
+  - admin
   - Safal Thapaliya
   - Nirajan Basnet
   - Samip Poudel
   - Aman Shakya
   - Bishesh Khanal
 doi: https://aclanthology.org/2022.smm4h-1.52/
-publication: Proceedings of The Seventh Workshop on Social Media Mining for
-  Health Applications, Workshop & Shared Task
-publication_short: Association for Computational Linguistics
+booktitle: Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop \& Shared Task
+pages: 209--215
+year: 2022
+publication: Association for Computational Linguistics
+publication_short: ACL
 abstract: Billions of people across the globe have been using social media
   platforms in their local languages to voice their opinions about the various
   topics related to the COVID-19 pandemic. Several organizations, including the
