@@ -1,7 +1,7 @@
 ---
 title: Rabin Adhikari
 role: Research Assistant at NAAMII
-avatar_filename: img_7718.jpg
+avatar_filename: avatar.jpg
 bio: Currently researching on semi-supervised and multi-modal learning, Medical
   Imaging, and Natural Language Processing
 interests:
