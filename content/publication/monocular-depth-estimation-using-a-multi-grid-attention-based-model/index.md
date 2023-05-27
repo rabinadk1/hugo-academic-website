@@ -1,10 +1,14 @@
 ---
 title: Monocular depth estimation using a multi-grid attention-based model
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
   - "2"
 authors:
   - Sangam Man Buddhacharya
-  - Rabin Adhikari
+  - admin
   - Nischal Maharjan
   - Sanjeeb Prasad Panday
 doi: https://doi.org/10.36548/jiip.2022.3.001
@@ -28,6 +32,9 @@ abstract: With the increased use of depth information in computer vision,
   used in several applications.
 draft: false
 featured: false
+
+url_pdf: https://irojournals.com/iroiip/article/pdf/4/3/1 
+
 image:
   filename: ""
   focal_point: Smart

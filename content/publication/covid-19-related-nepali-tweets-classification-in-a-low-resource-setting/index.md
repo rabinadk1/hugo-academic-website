@@ -1,5 +1,11 @@
 ---
 title: COVID-19-related Nepali Tweets Classification in a Low Resource Setting
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+
 publication_types:
   - "1"
 authors:
@@ -10,11 +16,7 @@ authors:
   - Aman Shakya
   - Bishesh Khanal
 doi: https://aclanthology.org/2022.smm4h-1.52/
-booktitle: Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop \& Shared Task
-pages: 209--215
-year: 2022
-publication: Association for Computational Linguistics
-publication_short: ACL
+publication: In *Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop \& Shared Task*
 abstract: Billions of people across the globe have been using social media
   platforms in their local languages to voice their opinions about the various
   topics related to the COVID-19 pandemic. Several organizations, including the
