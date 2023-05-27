@@ -31,7 +31,7 @@ social:
     link: uploads/resume.pdf
   - icon: envelope
     icon_pack: fas
-    link: rabin.adk1@gmail.com
+    link: mailto:rabin.adk1@gmail.com
 organizations:
   - name: NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
     url: https://www.naamii.org.np/
