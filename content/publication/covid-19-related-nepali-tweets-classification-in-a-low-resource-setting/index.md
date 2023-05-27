@@ -35,6 +35,10 @@ abstract: Billions of people across the globe have been using social media
   open-sourced at https://github.com/naamiinepal/covid-tweet-classification.
 draft: false
 featured: true
+
+url_pdf: https://aclanthology.org/2022.smm4h-1.52.pdf 
+url_code: https://github.com/naamiinepal/covid-tweet-classification 
+
 image:
   filename: ""
   focal_point: Smart
