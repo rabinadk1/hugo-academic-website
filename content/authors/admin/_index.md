@@ -5,12 +5,12 @@ avatar_filename: avatar.jpg
 bio: Currently researching on semi-supervised and multi-modal learning, Medical
   Imaging, and Natural Language Processing
 interests:
-  - Deep Learning • Machine Learning • Python • Natural Language Processing
-    (NLP) • Medical Imaging
+  - Deep Learning
+  - Machine Learning
+  - Python
+  - Natural Language Processing (NLP)
+  - Medical Imaging
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/toughresearcher
