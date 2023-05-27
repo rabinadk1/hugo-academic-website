@@ -75,9 +75,10 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: disqus
     disqus:
-      shortname: ''
+      shortname: 'rabinadk1'
       show_count: true
     commento:
       url: ''
