@@ -10,7 +10,9 @@ authors:
   - Aman Shakya
   - Bishesh Khanal
 doi: https://aclanthology.org/2022.smm4h-1.52/
-publication: Association for Computational Linguistics
+publication: Proceedings of The Seventh Workshop on Social Media Mining for
+  Health Applications, Workshop & Shared Task
+publication_short: Association for Computational Linguistics
 abstract: Billions of people across the globe have been using social media
   platforms in their local languages to voice their opinions about the various
   topics related to the COVID-19 pandemic. Several organizations, including the
