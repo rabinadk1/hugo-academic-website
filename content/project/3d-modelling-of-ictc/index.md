@@ -1,6 +1,6 @@
 ---
 title: 3D Modelling of ICTC
-date: 2023-05-28T09:08:14.538Z
+date: 2020-01-20T09:08:14.538Z
 summary: It is a 3D simulation of the ICTC building in the Pulchowk Campus
   written in C++ using OpenGL and GLSL.
 draft: false
