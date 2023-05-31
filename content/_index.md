@@ -23,27 +23,47 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant 
+          company: NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
+          company_url: 'https://www.naamii.org.np/'
+          company_logo: org-naamii
+          location: Lalitpur, Nepal
+          date_start: '2021-04-19'
           date_end: ''
+          description: |2-
+              Research Areas:
+              
+              - NLP
+              - Medical Imaging
+              - Semi-supervised Learning
+              - Label Noise
+        - title: Full-stack Developer
+          company: Clamphook
+          company_url: 'https://clamphook.com/'
+          company_logo: org-clamphook
+          location: Lalitpur, Nepal
+          date_start: '2019-11-01'
+          date_end: '2021-06-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+              * Utilize MongoDB and Flask to build the Backend
+              * Used front-end technologies such as React for front-end and back-end communication
+              * Server deployment and DevOps
+        - title: Research Intern
+          company: Diyo.ai
+          company_url: 'https://diyo.ai/'
+          location: Remote
+          date_start: '2020-07-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: I researched the availability of Nepali language corpora and created one that was reasonable in size. I also used the Huggingface transformers library to train an ALBERT language model for the Nepali language. The library leverages Pytorch and Tensorflow and makes employing transformers in Python simpler. 
+        - title: Junior Researcher
+          company: ASMI
+          company_url: 'http://asmi.co/'
+          location: Remote
+          date_start: '2019-05-01'
+          date_end: '2020-03-31'
+          description: I researched two-dimensional in-video advertising to enable businesses to distribute advertisements through videos without interfering with the video content. 
     design:
       columns: '2'
   - block: collection
@@ -84,29 +104,85 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PD5QMDKBSARG
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-04-17'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: Generative Adversarial Networks (GANs) Specialization
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/6VRS94A69C3V
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2021-04-19'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: Natural Language Processing Specialization
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/W7ECP2FEWQFJ
+          date_end: ''
+          date_start: '2020-06-30'
+          description: ''
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: 'TensorFlow: Data and Deployment Specialization'
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/REE4QRCKYDPC
+          date_end: ''
+          date_start: '2020-06-15'
+          description: ''
+          organization: University of Michigan
+          organization_url: https://www.deeplearning.ai/ 
+          title: Applied Data Science with Python Specialization 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/F8S939M8ECVM
+          date_end: ''
+          date_start: '2020-05-31'
+          description: ''
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: AI for Medicine Specialization
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/B5BBPFKDCUES
+          date_end: ''
+          date_start: '2020-04-18'
+          description: ''
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: Deep Learning Specialization 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/77DPRH7FKG5B
+          date_end: ''
+          date_start: '2020-04-21'
+          description: ''
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: TensorFlow Developer Specialization 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/B5BBPFKDCUES
+          date_end: ''
+          date_start: '2020-04-17'
+          description: ''
+          organization: Imperial College London
+          organization_url: https://www.deeplearning.ai/ 
+          title: Mathematics for Machine Learning Specialization 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/B5BBPFKDCUES
+          date_end: ''
+          date_start: '2020-04-18'
+          description: ''
+          organization: DeepLearning.AI
+          organization_url: https://www.deeplearning.ai/ 
+          title: Deep Learning Specialization 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/7TYPAB5W7SAP
+          date_end: ''
+          date_start: '2020-04-05'
+          description: ''
+          organization: Stanford University
+          organization_url: https://www.deeplearning.ai/ 
+          title: Machine Learning 
           url: ''
     design:
       columns: '2'
