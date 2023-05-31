@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: Hi, I am a computer engineering graduate from IOE, Pulchowk Campus, with a year of experience as a research assistant at NAAMII.
+    org_name: 'NepAl Applied Mathematics and Informatics Institute for research'
+    description: Hi, I am a computer engineering graduate from IOE, Pulchowk Campus, with a year of experience as an RA at NAAMII. My primary research interests lie in developing and applying machine learning techniques to solve practical problems, focusing on semi-supervised learning, multi-modal learning, and NLP. 
     twitter: toughresearcher
   analytics:
     google_analytics: ''
