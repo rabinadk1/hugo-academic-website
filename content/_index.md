@@ -32,12 +32,10 @@ sections:
           date_start: '2021-04-19'
           date_end: ''
           description: |2-
-              Research Areas:
-              
-              - NLP
-              - Medical Imaging
-              - Semi-supervised Learning
-              - Label Noise
+              _Supervisor: Bishesh Khanal, Ph.D._
+
+              - Contributing actively to research projects focused on **Natural Language Processing (NLP)**, **Medical Imaging**, **Semi-supervised Learning**, and **Multi-modal Learning**.
+              - Employed rigorous research methodologies to analyze data, draw meaningful conclusions, and contribute to advancing knowledge in these domains.
         - title: Full-stack Developer
           company: Clamphook
           company_url: 'https://clamphook.com/'
@@ -46,25 +44,27 @@ sections:
           date_start: '2019-11-01'
           date_end: '2021-06-01'
           description: |2-
-              Responsibilities include:
-
-              * Utilize MongoDB and Flask to build the Backend
-              * Used front-end technologies such as React for front-end and back-end communication
-              * Server deployment and DevOps
+              - Participated vigorously in the development of [clamphook.com](https://clamphook.com) by implementing the server-side functionality utilizing _MongoDB_ as the database and _Flask_ as the web framework.
+              - Leveraged _React_ as the front-end technology to facilitate seamless communication between the front-end and back-end components of the website.
+              - Deployed servers using _nginx_, _gunicorn_, and _Cloudflare_, effectively managing the infrastructure to handle concurrent traffic of up to 5,000 users. This involved ensuring a smooth and uninterrupted user experience even during peak traffic.
         - title: Research Intern
           company: Diyo.ai
           company_url: 'https://diyo.ai/'
           location: Remote
           date_start: '2020-07-01'
           date_end: '2020-12-31'
-          description: I researched the availability of Nepali language corpora and created one that was reasonable in size. I also used the Huggingface transformers library to train an ALBERT language model for the Nepali language. The library leverages Pytorch and Tensorflow and makes employing transformers in Python simpler. 
+          description: |2-
+              _Supervisor: Binod Bhattarai, Ph.D._
+            
+              - Conducted extensive research on the availability of Nepali language corpora, resulting in a substantial corpus measuring nearly 3 GB in size.
+              - Leveraged the _Huggingface_ transformers library to train an _ALBERT_ language model specifically tailored for the Nepali language.
         - title: Junior Researcher
           company: ASMI
           company_url: 'http://asmi.co/'
           location: Remote
           date_start: '2019-05-01'
           date_end: '2020-03-31'
-          description: I researched two-dimensional in-video advertising to enable businesses to distribute advertisements through videos without interfering with the video content. 
+          description: Researched comprehensively on two-dimensional _In-Video Advertising_, focusing on enabling seamless advertisement integration within platform videos without disrupting the viewing experience. 
     design:
       columns: '2'
   - block: collection
