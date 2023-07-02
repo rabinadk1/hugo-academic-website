@@ -1,6 +1,9 @@
 ---
 title: Abusive Nepali Text Detection to Support IPV Research
 date: 2023-07-02T05:28:48.742Z
+summary: Developed a system for detecting abusive texts in online content,
+  focusing on IPV research, using a tailored deep learning model and an
+  interactive dashboard for Nepali languages.
 draft: false
 featured: true
 tags:
