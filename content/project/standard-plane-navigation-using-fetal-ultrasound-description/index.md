@@ -1,6 +1,9 @@
 ---
 title: Standard Plane Navigation using Fetal Ultrasound Description
 date: 2023-07-02T05:32:36.658Z
+summary: Developing a vision-language model that connects text descriptions with
+  ultrasound images, facilitating standard plane navigation and reducing
+  variance among radiologists.
 draft: false
 featured: true
 tags:
