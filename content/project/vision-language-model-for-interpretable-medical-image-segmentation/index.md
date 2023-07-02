@@ -1,6 +1,10 @@
 ---
 title: Vision Language Model for Interpretable Medical Image Segmentation
 date: 2023-07-02T05:26:02.569Z
+summary: Developed a multi-modal vision-language approach for accurate
+  segmentation of medical images by extracting semantic information from image
+  descriptions, evaluating and exploring the impact of variations in
+  descriptions on model performance.
 draft: false
 featured: true
 authors: []
