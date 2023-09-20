@@ -50,6 +50,7 @@ sections:
         - title: Research Intern
           company: Diyo.ai
           company_url: 'https://diyo.ai/'
+          company_logo: org-diyo
           location: Remote
           date_start: '2020-07-01'
           date_end: '2020-12-31'
@@ -61,6 +62,7 @@ sections:
         - title: Junior Researcher
           company: ASMI
           company_url: 'http://asmi.co/'
+          company_logo: org-asmi
           location: Remote
           date_start: '2019-05-01'
           date_end: '2020-03-31'
