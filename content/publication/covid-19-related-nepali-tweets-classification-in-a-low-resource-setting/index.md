@@ -41,6 +41,7 @@ featured: true
 
 url_pdf: https://aclanthology.org/2022.smm4h-1.52.pdf 
 url_code: https://github.com/naamiinepal/covid-tweet-classification 
+url_slides: /uploads/slides/covid-19-related_2022.pdf
 
 image:
   filename: ""
