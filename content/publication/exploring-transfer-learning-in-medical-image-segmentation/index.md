@@ -15,15 +15,14 @@ authors:
   - Bishesh Khanal
 publication: arXiv preprint arXiv:2308.07706 
 abstract: |2-
-    Medical Image Segmentation is crucial in various clinical applications within the medical domain. While state-of-the-art segmentation models have proven effective, integrating textual guidance to enhance visual features for this task remains an area with limited progress. Existing segmentation models that utilize textual guidance are primarily trained on open-domain images, raising concerns about their direct applicability in the medical domain without manual intervention or fine-tuning.
+    Medical image segmentation with deep learning is an important and widely studied topic because segmentation enables quantifying target structure size and shape that can help in disease diagnosis, prognosis, surgery planning, and understanding. Recent advances in the foundation Vision-Language Models (VLMs) and their adaptation to segmentation tasks in natural images with Vision-Language Segmentation Models (VLSMs) have opened up a unique opportunity to build potentially powerful segmentation models for medical images that enable providing helpful information via language prompt as input, leverage the extensive range of other medical imaging datasets by pooled dataset training, adapt to new classes, and be robust against out-of-distribution data with human-in-the-loop prompting during inference. Although transfer learning from natural to medical images for image-only segmentation models has been studied, no studies have analyzed how the joint representation of vision-language transfers to medical images in segmentation problems and understand gaps in leveraging their full potential.
 
-    To address these challenges, we propose using multimodal vision-language models for capturing semantic information from image descriptions and images, enabling the segmentation of diverse medical images. This study comprehensively evaluates existing vision language models across multiple datasets to assess their transferability from the open domain to the medical field. Furthermore, we introduce variations of image descriptions for previously unseen images in the dataset, revealing notable variations in model performance based on the generated prompts.
-
-    Our findings highlight the distribution shift between the open-domain images and the medical domain and show that the segmentation models trained on open-domain images are not directly transferrable to the medical field. But their performance can be increased by finetuning them in the medical datasets. We report the zero-shot and finetuned segmentation performance of 4 Vision Language Models (VLMs) on 11 medical datasets using 9 types of prompts derived from 14 attributes.
+    We present the first benchmark study on transfer learning of VLSMs to 2D medical images with thoughtfully collected 11 existing 2D medical image datasets of diverse modalities with carefully presented 9 types of language prompts from 14 attributes. Our results indicate that VLSMs trained in natural image-text pairs transfer reasonably to the medical domain in zero-shot settings when prompted appropriately for non-radiology photographic modalities; when finetuned, they obtain comparable performance to conventional architectures, even in X-rays and ultrasound modalities. However, the additional benefit of language prompts during finetuning may be limited, with image features playing a more dominant role; they can better handle training on pooled datasets combining diverse modalities and are potentially more robust to domain shift than the conventional segmentation models.
 draft: false
-featured: false
+featured: true
 
 url_pdf: https://arxiv.org/pdf/2308.07706.pdf
+url_code: https://github.com/naamiinepal/medvlsm
 
 image:
   filename: ""
