@@ -20,6 +20,7 @@ featured: false
 
 url_pdf: https://arxiv.org/pdf/2309.12829.pdf
 url_code: https://github.com/naamiinepal/synthetic-boost
+url_slides: /uploads/slides/synthetic-boost.pdf
 
 image:
   filename: ""
