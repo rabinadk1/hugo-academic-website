@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -17,11 +17,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'NepAl Applied Mathematics and Informatics Institute for research'
-    description: Hi, I am a computer engineering graduate from IOE, Pulchowk Campus, with a year of experience as an RA at NAAMII. My primary research interests lie in developing and applying machine learning techniques to solve practical problems, focusing on semi-supervised learning, multi-modal learning, and NLP. 
+    description: Hi, I am a computer engineering graduate from IOE, Pulchowk Campus, with a year of experience as an RA at NAAMII. My primary research interests lie in developing and applying machine learning techniques to solve practical problems, focusing on semi-supervised learning, multi-modal learning, and NLP.
     twitter: toughresearcher
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_tag_manager: 'G-4XG2ETCJEG'
   verification:
     google: ''
     baidu: ''
@@ -105,7 +104,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Security
 
