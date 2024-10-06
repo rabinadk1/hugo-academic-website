@@ -30,11 +30,11 @@ sections:
           company_logo: org-naamii
           location: Lalitpur, Nepal
           date_start: '2021-04-19'
-          date_end: ''
+          date_end: '2024-09-11'
           description: |2-
               _Supervisor: Bishesh Khanal, Ph.D._
 
-              - Contributing actively to research projects focused on **Natural Language Processing (NLP)**, **Medical Imaging**, **Semi-supervised Learning**, and **Multi-modal Learning**.
+              - Contributed actively to research projects focused on **Natural Language Processing (NLP)**, **Medical Imaging**, **Semi-supervised Learning**, and **Multi-modal Learning**.
               - Employed rigorous research methodologies to analyze data, draw meaningful conclusions, and contribute to advancing knowledge in these domains.
         - title: Full-stack Developer
           company: Clamphook

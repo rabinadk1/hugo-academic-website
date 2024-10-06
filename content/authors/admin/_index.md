@@ -1,9 +1,8 @@
 ---
 title: Rabin Adhikari
-role: Research Assistant
+role: MS in Data Science and AI
 avatar_filename: avatar.jpg
-bio: Currently researching on semi-supervised and multi-modal learning, Medical
-  Imaging, and Natural Language Processing
+bio: Pursuing a Master’s in Data Science and AI at Saarland University, I specialize in machine learning, focusing on semi-supervised and multimodal learning, and NLP. Experienced in developing AI solutions at NAAMII, I aim to contribute to impactful research and practical applications.
 interests:
   - Deep Learning
   - Machine Learning
@@ -30,16 +29,19 @@ social:
     icon_pack: fas
     link: mailto:rabin.adk1@gmail.com
 organizations:
-  - name: NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
-    url: https://www.naamii.org.np/
+  - name: Saarland University
+    url: https://www.uni-saarland.de
 education:
   courses:
+    - course: MS in Data Science and AI
+      institution: Saarland University, Saarland Informatics Campus
+      year: 2024
     - course: Bachelors in Computer Engineering
       institution: Tribhuvan University, Institute of Engineering, Pulchowk Campus
-      year: 2022
+      year: 2017
     - course: High School in Physical Sciences
       institution: SOS Hermann Gmeiner School Bharatpur, Bharatpur, Nepal
-      year: 2017
+      year: 2015
 superuser: true
 status:
   icon: ☕️
@@ -48,8 +50,8 @@ highlight_name: true
 first_name: Rabin
 email: "rabin.adk1@gmail.com"
 ---
-Hi, I am a computer engineering graduate from IOE, Pulchowk Campus, with a year of experience as a research assistant at NAAMII, a reputable research organization. My primary research interests lie in developing and applying machine learning techniques to solve practical problems, focusing on semi-supervised learning, multi-modal learning, and natural language processing.
+Hi, I am currently pursuing a Master’s degree in Data Science and Artificial Intelligence at Saarland University, Germany. I hold a degree in computer engineering from IOE, Pulchowk Campus, and have gained valuable experience as a research assistant at NAAMII, a leading research institute. My research interests lie in machine learning, focusing on semi-supervised learning, multimodal learning, and natural language processing.
 
-At NAAMII, I gained valuable experience developing and implementing complex machine-learning models for various applications, including natural language processing and medical images. I have a strong foundation in algorithms, data structures, and mathematics, enabling me to create practical solutions to challenging problems. I am a self-motivated individual with strong self-management skills and comfortable working independently or as part of a team. I am passionate about producing high-quality results that have a real impact on society.
+At NAAMII, I developed and implemented advanced machine-learning models for real-world applications, including natural language processing and medical imaging. My strong foundation in algorithms, data structures, and mathematics equips me to tackle complex challenges, and I am passionate about creating impactful solutions through technology.
 
-As I seek to further my knowledge and skills in machine learning, I am eager to pursue a Ph.D. program that would allow me to delve deeper into these research areas. With my research experience and passion for creating practical solutions, I am confident I can make meaningful contributions as a research assistant.
+I am eager to expand my machine learning and AI expertise through academic and research opportunities, with the long-term goal of pursuing a Ph.D. My research experience and passion for applying machine learning techniques to societal challenges enable me to contribute effectively to interdisciplinary research teams.
