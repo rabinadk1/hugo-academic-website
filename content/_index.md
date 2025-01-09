@@ -24,6 +24,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Data Scientist (Working Student)
+          company: QuantPi
+          company_url: 'https://www.quantpi.com/'
+          company_logo: org-quantpi
+          location: Saarbrücken, Germany
+          date_start: '2024-11-15'
+          description: |2-
+              _Supervisor: Max Losch, Ph.D._
+
+              - Evaluating Quality Assurance metrics for industry-grade multi-modal ML models
         - title: Research Assistant 
           company: NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
           company_url: 'https://www.naamii.org.np/'
